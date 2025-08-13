@@ -21,3 +21,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+![GitHub Snake Light](https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/github-contribution-grid-snake.svg)
