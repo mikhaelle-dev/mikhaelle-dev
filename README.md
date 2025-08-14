@@ -30,3 +30,10 @@
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align="center">my game</h1>
+
+###
+
+<img src="https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/snake.svg" alt="Snake animation" />
+
+###
