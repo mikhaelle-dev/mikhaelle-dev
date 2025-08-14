@@ -188,13 +188,7 @@ R                        1 repo              ░░░░░░░░░░░�
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/pacman-contribution-graph.svg">
-</picture>
-https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/main/output/pacman-contribution-graph.svg
-https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/main/output/pacman-contribution-graph-dark.svg
+
 
 <img src="https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/snake.svg" alt="Snake animation" />
 
