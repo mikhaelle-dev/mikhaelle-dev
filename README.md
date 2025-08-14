@@ -194,6 +194,8 @@ R                        1 repo              ░░░░░░░░░░░�
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/pacman-contribution-graph.svg">
 </picture>
 
+_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
 
 <img src="https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/snake.svg" alt="Snake animation" />
 
