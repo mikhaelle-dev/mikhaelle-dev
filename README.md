@@ -28,9 +28,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center">my game</h1>
+<h1 align="center">-----------------------------------------------------------------------</h1>
 
 ###
 
