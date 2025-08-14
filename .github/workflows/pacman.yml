@@ -1,29 +1,33 @@
-name: generate pacman game
-
+name: Generate Pac-Man Contribution Graph
 on:
-  schedule: # Run automatically every 24 hours
-    - cron:  "* */12 * * *"
-  workflow_dispatch: # Allows manual triggering
-  push: # Runs on every push to the main branch
-    branches:
-      - main
+  schedule:
+    - cron: "0 */24 * * *"     # jalan 1x/hari (UTC)
+  workflow_dispatch:           # bisa dijalankan manual dari tab Actions
+
+permissions:
+  contents: write              # WAJIB: agar bisa push ke branch output
 
 jobs:
-  generate:
-    permissions:
-      contents: write
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
     steps:
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      # Push the generated SVG to the output branch
-      - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build Pac-Man SVG
+        run: |
+          npm init -y
+          npm i pacman-contribution-graph
+          mkdir -p dist
+          node -e "import('pacman-contribution-graph').then(async m=>{const {render}=m; const fs=require('fs'); const u=process.env.GITHUB_REPOSITORY.split('/')[0]; const light=await render({username:u, theme:'githubLight'}); const dark=await render({username:u, theme:'githubDark'}); fs.writeFileSync('dist/pacman-contribution-graph.svg', light); fs.writeFileSync('dist/pacman-contribution-graph-dark.svg', dark);})"
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
