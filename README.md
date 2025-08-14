@@ -29,8 +29,6 @@
 </picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center">-----------------------------------------------------------------------</h1>
-
 ###
 
 <img src="https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/snake.svg" alt="Snake animation" />
