@@ -193,9 +193,8 @@ R                        1 repo              ░░░░░░░░░░░�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/pacman-contribution-graph.svg">
 </picture>
-
-_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
+https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/main/output/pacman-contribution-graph.svg
+https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/main/output/pacman-contribution-graph-dark.svg
 
 <img src="https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/snake.svg" alt="Snake animation" />
 
