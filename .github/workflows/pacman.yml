@@ -1,4 +1,5 @@
 name: Generate Pac-Man Animation
+
 on:
   schedule:
     - cron: "0 */24 * * *"
@@ -14,13 +15,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate pacman.svg
         run: |
-          git clone https://github.com/USERNAME/pacman-generator.git
+          git clone https://github.com/mikhaelle-dev/pacman-generator.git
           cd pacman-generator
           npm install
           npm run build -- --user mikhaelle-dev --output ../dist/pacman.svg
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
