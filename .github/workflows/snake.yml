@@ -14,22 +14,17 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Create dist directory
-        run: mkdir -p dist
-
+      - uses: actions/checkout@v3
       - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: mikhaelle-dev
           outputs: dist/snake.svg
-
-      - name: Upload artifact
-        uses: actions/upload-artifact@v3
+      - name: Push to snake-output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          name: snake
-          path: dist/snake.svg
+          target_branch: snake-output      # ⬅️ branch khusus snake
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
