@@ -36,9 +36,7 @@
 
 #
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mikhaelle-dev/output/main/pacman.svg" alt="Pac-Man animation">
-  ![Pac-Man animation](https://raw.githubusercontent.com/mikhaelle-dev/output/main/pacman.svg)
-
+  <img src="https://github.com/mikhaelle-dev/mikhaelle-dev/blob/output/pacman.svg" alt="Pac-Man animation">
 
 </p>
 
