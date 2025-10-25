@@ -18,9 +18,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate pacman.svg
+      - name: Clone pacman-generator securely
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git clone https://github.com/mikhaelle-dev/pacman-generator.git
+          git clone https://$TOKEN@github.com/mikhaelle-dev/pacman-generator.git
           cd pacman-generator
           npm install
           npm run build -- --user mikhaelle-dev --output ../dist/pacman.svg
