@@ -20,12 +20,17 @@ jobs:
 
       - name: Clone pacman-generator securely
         env:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git clone https://$TOKEN@github.com/mikhaelle-dev/pacman-generator.git
-          cd pacman-generator
-          npm install
-          npm run build -- --user mikhaelle-dev --output ../dist/pacman.svg
+          git clone https://github.com/mikhaelle-dev/pacman-generator.git
+          cd pacman-generator || exit 1
+          if [ -f package.json ]; then
+            npm install
+            npm run build -- --user mikhaelle-dev --output ../dist/pacman.svg
+          else
+            echo "⚠️  Repo pacman-generator masih kosong — upload kodenya dulu."
+            exit 1
+          fi
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
