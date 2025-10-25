@@ -31,16 +31,24 @@
   </code>
 </p> -->
 
+<br>
+<br>
+
 #
+
+<!-- versi gelap (optional) -->
+<img src="https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/pacman-contribution-graph-dark.svg" alt="Pac-Man dark animation" />
+
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikhaelle._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mikhael rakarenzo mahendra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mikhaelrakarenzo@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikhaelle._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/mikhael-rakarenzo-mahendra-a699632b9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mikhaelrakarenzo@gmail.com) 
 
 # 💻 Tech Stack:
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://camo.githubusercontent.com/98cd87e841418652a0f55456e80cbb4d11a251792cb4784be899bfcc864073f0/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792d7472696e6962732d70726f6a656374732e76657263656c2e6170702f3f757365726e616d653d7472696e6962267468656d653d6d6174726978266e6f2d62673d74727565266e6f2d6672616d653d7472756526726f773d3126636f6c756d6e3d34267469746c653d5265706f7369746f726965732c4973737565732c4f7267616e697a6174696f6e732c5374617273 )
+
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikhaelle-dev&theme=dark&hide_border=true"/>
