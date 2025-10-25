@@ -39,6 +39,8 @@
 <!-- versi gelap (optional) -->
 <img src="https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/pacman-contribution-graph-dark.svg" alt="Pac-Man dark animation" />
 
+<img src="https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/profile-snake-contrib/cgithub-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
+
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikhaelle._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/mikhael-rakarenzo-mahendra-a699632b9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mikhaelrakarenzo@gmail.com) 
 
