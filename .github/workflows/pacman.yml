@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Pac-Man Animation
 
 on:
   schedule:
@@ -16,15 +16,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Generate snake.svg
+      - name: Generate pacman.svg
         uses: Platane/snk@v3
         with:
           github_user_name: mikhaelle-dev
-          outputs: dist/snake.svg
-      - name: Push to snake-output branch
+          outputs: dist/pacman.svg
+      - name: Push to pacman-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: snake-output      # ⬅️ branch khusus snake
+          target_branch: pacman-output     # ⬅️ branch khusus pacman
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
