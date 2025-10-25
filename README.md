@@ -36,10 +36,7 @@
 
 #
 
-<!-- versi gelap (optional) -->
-<img src="https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/pacman-contribution-graph-dark.svg" alt="Pac-Man dark animation" />
-
-![Snake animation](https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/snake.svg)
+![snake gif](https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/dist/pacman.svg)
 
 
 # 🌐 Socials:
