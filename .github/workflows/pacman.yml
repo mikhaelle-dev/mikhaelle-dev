@@ -2,7 +2,7 @@ name: Generate Pac-Man Animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *"  # jalan tiap 24 jam
+    - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -15,17 +15,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Pacman contribution graph
+      - uses: actions/checkout@v3
+      - name: Generate pacman.svg
         uses: Platane/snk@v3
         with:
           github_user_name: mikhaelle-dev
-          outputs: |
-            dist/pacman/pacman-contribution-graph.svg
-            dist/pacman/pacman-contribution-graph-dark.svg?palette=github-dark
-
+          outputs: dist/pacman.svg
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
