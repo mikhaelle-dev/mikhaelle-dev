@@ -35,8 +35,12 @@
 <br>
 
 #
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mikhaelle-dev/output/main/pacman.svg" alt="Pac-Man animation">
+  ![Pac-Man animation](https://raw.githubusercontent.com/mikhaelle-dev/output/main/pacman.svg)
 
-![snake gif](https://raw.githubusercontent.com/mikhaelle-dev/mikhaelle-dev/output/dist/pacman.svg)
+
+</p>
 
 
 # 🌐 Socials:
