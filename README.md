@@ -11,7 +11,7 @@
   <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" width="500"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Mikhael</h1>
+<h1 align="center">Hi 👋, I am a vibe configuration.</h1>
 <h3 align="center">🚀 Informatics Student | Network & Cloud Enthusiast</h3>
 
 <p align="center">
@@ -23,7 +23,9 @@
   </a>
 </p>
 
+
 ---
+
 
 ### 🧠 About Me
 - 🎓 Informatics Student (FTI)
@@ -31,63 +33,14 @@
 - ⚡ Currently learning: OSPF, BGP, Network Automation
 - 💡 Interested in: DevOps & Cloud Engineering
 
----
-
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,java,js,git,github,docker"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikhaelle-dev&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaelle-dev&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-### 🔥 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikhaelle-dev&theme=tokyo-night"/>
-</p>
-
----
-
-### 🤝 Connect with Me
-<p align="center">
-  <a href="https://github.com/mikhaelle-dev">
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
-</p>
-
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"/>
-
-
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 a vibe configure.**
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **i'am a undergraduate student***
 
 <br/>
-<br/>
 
 
-<p align="center">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=mikhaelle-dev&style=flat&color=blue"/> •   
-<!--   <a href="https://user-badge.committers.top/india_private/mikhaelle-dev"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"/></a> • -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/mikhaelle-dev?label=Followers&style=social"/> •
-  <img src="https://img.shields.io/github/stars/mikhaelle-dev?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
-  <a href="https://github.com/sponsors/mikhaelle-dev"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
-</p>
-<!-- <p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-mikhaelle.herokuapp.com%2Fapi%2mikhaelle-dev" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
-  </code>
-</p> -->
 
-<br>
-<br>
 
 #
 ### wleee
@@ -107,11 +60,16 @@
 # 💻 Tech Stack:
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<br>
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVzdTBua2U5NmV1cmhsOTR2Mm55aHMwczl0aWJic3hubHRyZnJjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQ9Zw/JcNNiHoYWPrgkduyGc/giphy.gif" width="450"/>
+</p>
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://camo.githubusercontent.com/98cd87e841418652a0f55456e80cbb4d11a251792cb4784be899bfcc864073f0/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792d7472696e6962732d70726f6a656374732e76657263656c2e6170702f3f757365726e616d653d7472696e6962267468656d653d6d6174726978266e6f2d62673d74727565266e6f2d6672616d653d7472756526726f773d3126636f6c756d6e3d34267469746c653d5265706f7369746f726965732c4973737565732c4f7267616e697a6174696f6e732c5374617273 )
+<br>
+<hr>
 
-
+<br>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikhaelle-dev&theme=dark&hide_border=true"/>
 </p>
