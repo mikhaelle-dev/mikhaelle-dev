@@ -7,6 +7,61 @@
 <br/>
 <br/>
 
+<p align="center">
+  <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" width="500"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Mikhael</h1>
+<h3 align="center">🚀 Informatics Student | Network & Cloud Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mikhaelle-dev&style=flat&color=blue" alt="profile views"/> •
+  <img src="https://img.shields.io/github/followers/mikhaelle-dev?label=Followers&style=social"/> •
+  <img src="https://img.shields.io/github/stars/mikhaelle-dev?label=Stars"/> •
+  <a href="https://github.com/sponsors/mikhaelle-dev">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/>
+  </a>
+</p>
+
+---
+
+### 🧠 About Me
+- 🎓 Informatics Student (FTI)
+- 🌐 Focus: Networking, Routing, Cloud
+- ⚡ Currently learning: OSPF, BGP, Network Automation
+- 💡 Interested in: DevOps & Cloud Engineering
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,java,js,git,github,docker"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikhaelle-dev&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaelle-dev&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🔥 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikhaelle-dev&theme=tokyo-night"/>
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="center">
+  <a href="https://github.com/mikhaelle-dev">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+</p>
+
 <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
 
